@@ -1,1 +1,1 @@
-# env-generator
+# .env generator

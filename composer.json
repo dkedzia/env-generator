@@ -1,0 +1,19 @@
+{
+    "name": "dkedzia/env-generator",
+    "description": "Generate .env file",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Dkedzia\\EnvGenerator\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Dominik Kędzia",
+            "email": "dominikkedzia@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
